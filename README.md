@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I am Valentin
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome!&fontSize=90)
 
 <!--
 **scout119/scout119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
