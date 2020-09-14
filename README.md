@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![HitCount](http://hits.dwyl.com/scout119/beamdasm.svg)](http://hits.dwyl.com/scout119/beamdasm)
+
+* profile [![HitCount](http://hits.dwyl.com/scout119/scout119.svg)](http://hits.dwyl.com/scout119/scout119)
+* beamdasm [![HitCount](http://hits.dwyl.com/scout119/beamdasm.svg)](http://hits.dwyl.com/scout119/beamdasm)
+
 [![](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)
