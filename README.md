@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=scout119&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+</details>
+
 * profile [![HitCount](http://hits.dwyl.com/scout119/scout119.svg)](http://hits.dwyl.com/scout119/scout119)
 * beamdasm [![HitCount](http://hits.dwyl.com/scout119/beamdasm.svg)](http://hits.dwyl.com/scout119/beamdasm)
 
